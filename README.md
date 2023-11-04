@@ -10,17 +10,6 @@ Email: admin@example.com
 Password: admin123
 ```
 
-Website: https://lcommerce.net
-
-```
-Email: user1@example.com
-Password: useruser1
-
-
-Email: user2@example.com
-Password: useruser2
-```
-
 ## Installation 
 Make sure you have environment setup properly. You will need MySQL, PHP8.1, Node.js and composer.
 
